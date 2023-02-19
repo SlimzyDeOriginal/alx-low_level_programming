@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - allows the program to print text using puts function
+ *main - allows the program to print text using puts function
  *
- * Return: 0 (sucessful)
+ *Return: 0 (sucessful)
  */
 int main(void)
 {
