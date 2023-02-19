@@ -1,9 +1,10 @@
 #include <stdio.h>
-int main(void)
-/*The program is to print the text using puts instead of printf
- *Output should return: 0
+/**
+ * main - allows the program to print text using puts function
+ *
+ * Return: 0 (sucessful)
  */
-	
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
