@@ -3,7 +3,7 @@
 /**
  *main - should print the text through the standard error
  *
- *Return 1 (successful)
+ *return value 1 (successful)
  */
 int main(void)
 {
