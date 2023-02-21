@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
- *main - should print the text through the standard error
+ *main - Entry point
+ *Description: 'Print a text through the standard err'
  *
- *return value 1 (successful)
+ *Return: success 1
  */
 int main(void)
 {
